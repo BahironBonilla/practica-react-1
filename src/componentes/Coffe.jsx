@@ -10,7 +10,7 @@ export function Coffe() {
     //operador ternario
     //return(<h1>{caliente?"cafe caliente":"cafe frio"}</h1>)
     const datos = {
-        nombre: "bahiron",
+        nombre: "bahiron",   
         edad: 21
     }
     return (<div>
